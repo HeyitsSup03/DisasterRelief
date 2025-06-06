@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Rampur",
+    "lat": 23.51,
+    "lon": 88.34,
+    "needs": {
+      "food": 50,
+      "medkit": 20
+    }
+  }
+]
